@@ -1,0 +1,10 @@
+15000200,Aura,Gonzalez,La Lago,0412-8965555,aura@clase.com
+18745987,Roselin,Orozco,La Fusta,0412-2226598,roselin@clase.com
+18745111,Mary Carmen,Cardozo,San Francisco,0416-9876545,marycarmen@clase.com
+14788999,Angel,Villasmil,Sabaneta,0412-7899999,angel@clase.com
+17896485,Cesar,Matheus,Pichincha,0414-6597441,cesar@clase.com
+18555111,Maria,Portillo,La Limpia,0424-5874265,maria@clase.com
+19213801,Jose,Castillo,Fuerzas Armadas,0414-6204303,jose@clase.com
+20213801,Jose,Castillo,Fuerzas Armadas,0414-6204303,jose@clase.com
+16811983,Andrea,Fernandez,Fuerzas Armadas,0426-5671423,andea@clase.com
+20213802,Jose,Castillo,Fuerzas Armadas,0414-6204303,jose@clase.com
